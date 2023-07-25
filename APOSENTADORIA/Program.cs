@@ -1,4 +1,4 @@
-﻿int idade, tempo; //Variavel do tipo inteiro
+﻿int idade, tempo; //Variaveis do tipo inteiro
 
 Console.WriteLine("Coloque sua idade: ");
 idade = Convert.ToInt32(Console.ReadLine());
